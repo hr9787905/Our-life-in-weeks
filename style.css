@@ -148,6 +148,17 @@ body {
 .alert2.active {
     display: block;
 }
+#footer{
+    font-size: 1rem;
+    margin-top: 50px;
+    text-shadow: none;
+    font-family: italic;
+    color: black;
+}
+
+#part2{
+    font-size: 0.6rem;
+}
 
 .answer {
     display: none;
